@@ -1,6 +1,6 @@
 # %% [markdown]
 # DataViz_CulturalFacilitiesInBerlin_Ivanishcheva_Ngo
-Try editing this cell by clicking the pencil on the left!
+Try editing this cell by clicking the pencil
 # %% [javascript]
 var message = "Hello Starboard!"
 console.log(message)
