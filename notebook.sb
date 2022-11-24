@@ -5,3 +5,4 @@ Try editing this cell by clicking the pencil
 var message = "Hello Starboard!"
 console.log(message)
 var mesg = "Hallo hier ist Phuong"
+var message "Hi"
