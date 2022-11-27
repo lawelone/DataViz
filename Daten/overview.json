@@ -1,0 +1,206 @@
+[
+ {
+   "District": "Charlottenburg-Wilmersdorf",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "77316,75",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "218946,6667",
+   "Förderung": "71898",
+   "Gedenkstätten": "0",
+   "Literatur und Kino": "25112",
+   "Opern und Chöre": "333627,5",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "59000"
+   }
+},
+ {
+   "District": "Friedrichshain-Kreuzberg",
+   "Archive": {
+      "Bibliotheken": "2622996"
+   },
+   "Berliner Landesmuseen": "323713",
+   "Bildende Kunst": "47062",
+   "Bühnen und Theater": "79685,62501",
+   "Förderung": "3653,166667",
+   "Gedenkstätten": "1502323",
+   "Literatur und Kino": "149775,5",
+   "Opern und Chöre": "534929",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "382222,2222"
+   }
+},
+ {
+   "District": "Marzahn-Hellersdorf",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "0",
+   "Förderung": "11216",
+   "Gedenkstätten": "0",
+   "Literatur und Kino": "0",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Pankow",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "0",
+   "Förderung": "8403",
+   "Gedenkstätten": "0",
+   "Literatur und Kino": "0",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Reinickendorf",
+   "Archive": {
+      "Bibliotheken": "27799"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "0",
+   "Förderung": "6978",
+   "Gedenkstätten": "0",
+   "Literatur und Kino": "0",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Steglitz-Zehlendorf",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "115960",
+   "Förderung": "0",
+   "Gedenkstätten": "218909",
+   "Literatur und Kino": "20513,00001",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "144502,5",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Mitte",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "149536",
+   "Bühnen und Theater": "275578",
+   "Förderung": "8649",
+   "Gedenkstätten": "1900000",
+   "Literatur und Kino": "37210,25",
+   "Opern und Chöre": "392942,25",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "583640,25"
+   }
+},
+ {
+   "District": "Neukölln",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "45971",
+   "Förderung": "25324",
+   "Gedenkstätten": "0",
+   "Literatur und Kino": "0",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Lichtenberg",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "181855",
+   "Förderung": "14847",
+   "Gedenkstätten": "814796",
+   "Literatur und Kino": "0",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Tempelhof-Schöneberg",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "0",
+   "Förderung": "52232",
+   "Gedenkstätten": "0",
+   "Literatur und Kino": "70311",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "0"
+   }
+},
+ {
+   "District": "Treptow-Köpenick",
+   "Archive": {
+      "Bibliotheken": "0"
+   },
+   "Berliner Landesmuseen": "0",
+   "Bildende Kunst": "0",
+   "Bühnen und Theater": "0",
+   "Förderung": "1018",
+   "Gedenkstätten": "17372",
+   "Literatur und Kino": "0",
+   "Opern und Chöre": "0",
+   "Preußische Schlösser & Gärten": "0",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "33000"
+   }
+},
+ {
+   "District": "Grand Total",
+   "Archive": {
+      "Bibliotheken": "1325397,5"
+   },
+   "Berliner Landesmuseen": "234114,3636",
+   "Bildende Kunst": "65532,66667",
+   "Bühnen und Theater": "177520,5769",
+   "Förderung": "10855,78571",
+   "Gedenkstätten": "992620,5",
+   "Literatur und Kino": "62703,11111",
+   "Opern und Chöre": "396279",
+   "Preußische Schlösser & Gärten": "57801",
+   "Staatliche Museen zu Berlin ": {
+      " Stiftung Preußischer Kulturbesitz": "335753,3889"
+   }
+}
+]
