@@ -4,22 +4,21 @@
   "Maenner": 3187,
   "Frauen": 383,
   "MaennerProzent": 89.27,
-  "FrauenProzent": 10.730000000000004
+  "FrauenProzent": 10.73
  },
  {
   "Berufsgruppe": "Musikbearbeitende",
   "Maenner": 476,
   "Frauen": 39,
   "MaennerProzent": 92.43,
-  "FrauenProzent": 7.569999999999993
+  "FrauenProzent": 7.57
  },
  {
   "Berufsgruppe": "Dirigierende",
   "Maenner": 392,
   "Frauen": 60,
   "MaennerProzent": 86.73,
-  "FrauenProzent": 13.269999999999996
- },
+  "FrauenProzent": 13.27
  {
   "Berufsgruppe": "MusicalsaengerInnen",
   "Maenner": 407,
@@ -32,7 +31,7 @@
   "Maenner": 2428,
   "Frauen": 411,
   "MaennerProzent": 85.52,
-  "FrauenProzent": 14.480000000000004
+  "FrauenProzent": 14.48
  },
  {
   "Berufsgruppe": "Tanz-und RockmusikerInnen",
@@ -46,7 +45,7 @@
   "Maenner": 731,
   "Frauen": 69,
   "MaennerProzent": 91.38,
-  "FrauenProzent": 8.620000000000005
+  "FrauenProzent": 8.62
  },
  {
   "Berufsgruppe": "MusikpädagogInnen",
@@ -60,6 +59,6 @@
   "Maenner": 680,
   "Frauen": 45,
   "MaennerProzent": 93.79,
-  "FrauenProzent": 6.209999999999994
+  "FrauenProzent": 6.21
  }
 ],"item":[]}
