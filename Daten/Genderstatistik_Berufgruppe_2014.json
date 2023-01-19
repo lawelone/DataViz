@@ -1,0 +1,65 @@
+{"messages":{"messages":[],"success":null},"results":{"count":1004,"items_per_page":0},"index":[
+ {
+  "Berufsgruppe": "Komponierende",
+  "Maenner": 3187,
+  "Frauen": 383,
+  "MaennerProzent": 89.27,
+  "FrauenProzent": 10.730000000000004
+ },
+ {
+  "Berufsgruppe": "Musikbearbeitende",
+  "Maenner": 476,
+  "Frauen": 39,
+  "MaennerProzent": 92.43,
+  "FrauenProzent": 7.569999999999993
+ },
+ {
+  "Berufsgruppe": "Dirigierende",
+  "Maenner": 392,
+  "Frauen": 60,
+  "MaennerProzent": 86.73,
+  "FrauenProzent": 13.269999999999996
+ },
+ {
+  "Berufsgruppe": "MusicalsaengerInnen",
+  "Maenner": 407,
+  "Frauen": 729,
+  "MaennerProzent": 35.83,
+  "FrauenProzent": 64.17
+ },
+ {
+  "Berufsgruppe": "Tanz-und PopmusikerInnen",
+  "Maenner": 2428,
+  "Frauen": 411,
+  "MaennerProzent": 85.52,
+  "FrauenProzent": 14.480000000000004
+ },
+ {
+  "Berufsgruppe": "Tanz-und RockmusikerInnen",
+  "Maenner": 4190,
+  "Frauen": 473,
+  "MaennerProzent": 89.86,
+  "FrauenProzent": 10.14
+ },
+ {
+  "Berufsgruppe": "Künstlerisch-technische Mitarbeitende",
+  "Maenner": 731,
+  "Frauen": 69,
+  "MaennerProzent": 91.38,
+  "FrauenProzent": 8.620000000000005
+ },
+ {
+  "Berufsgruppe": "MusikpädagogInnen",
+  "Maenner": 12403,
+  "Frauen": 13756,
+  "MaennerProzent": 47.41,
+  "FrauenProzent": 52.59
+ },
+ {
+  "Berufsgruppe": "DJs",
+  "Maenner": 680,
+  "Frauen": 45,
+  "MaennerProzent": 93.79,
+  "FrauenProzent": 6.209999999999994
+ }
+],"item":[]}
